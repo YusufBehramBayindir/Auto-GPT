@@ -90,7 +90,7 @@ _Aşağıdaki komutları çalıştırmak için, bilgisayarınızdaki bir klasör
 
 2. Her eylemden sonra, komut(lar)ı yetkilendirmek için seçenekler arasından seçim yapın,
 programdan çıkın veya yapay zekaya geri bildirim sağlayın.
-    1. Tek bir komutu yetkilendirin, "y" girin
+    1. Tek bir komutu yetkilendirin, `y` girin
     2. Bir dizi _N_ sürekli komut yetkilendirin, `y -N` girin
     3. Programdan çıkın, `n` girin
 
