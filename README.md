@@ -3,7 +3,7 @@
 
 Auto-GPT, GPT-4 dil modelinin yeteneklerini sergileyen deneysel bir açık kaynaklı uygulamadır. GPT-4 tarafından yönetilen bu program, belirlediğiniz hedefe özel bir şekilde ulaşmak için çalışıyor. Tamamen otonom olarak çalışan GPT-4'ün ilk örneklerinden biri olan Auto-GPT, yapay zeka ile mümkün olanın sınırlarını zorluyor.
 
-## 🚀 Features
+## 🚀 Özellikler
 
 - 🌐 Arama ve bilgi toplama için internet erişimi
 - 💾 Uzun Süreli ve Kısa Süreli hafıza yönetimi
@@ -56,10 +56,10 @@ _Aşağıdaki komutları çalıştırmak için, bilgisayarınızdaki bir klasör
     1. Ana "/Auto-GPT" klasöründe `.env.template` adlı dosyayı bulun.
     2. `.template` uzantısını kaldırarak bu dosyanın `.env` adlı bir kopyasını oluşturun. En kolay yol, bunu bir komut istemi/terminal penceresinde `cp .env.template .env` yapmaktır.
     3. `.env` dosyasını bir metin düzenleyicide açın. _Not: Nokta ile başlayan dosyalar İşletim Sisteminiz tarafından gizlenmiş olabilir._
-    4. "OPENAI_API_KEY=" yazan satırı bulun.
+    4. `OPENAI_API_KEY=` yazan satırı bulun.
     5. `"="` işaretinden sonra benzersiz OpenAI API Anahtarınızı girin (tırnak işaretleri veya boşluklar olmadan).
     6. Kullanmak istediğiniz hizmetler için diğer API anahtarlarını veya Simgelerini girin.
-    7. ".env" dosyasını kaydedip kapatın.
+    7. `.env` dosyasını kaydedip kapatın.
 
     Bu adımları tamamlayarak, projeniz için API Anahtarlarını doğru şekilde yapılandırdınız.
    
