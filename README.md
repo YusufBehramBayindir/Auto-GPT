@@ -37,7 +37,7 @@ _Aşağıdaki komutları çalıştırmak için, bilgisayarınızdaki bir klasör
 2. Depoyu klonlayın: Bu adım için Git'in kurulu olması gerekir.Proje dizinine gidin: (Bunu CMD pencerenize yazın, CMD penceresinde az önce indirdiğiniz depoya gitmeyi hedefliyorsunuz)
 
     ```bash
-    git clone https://github.com/Significant-Gravitas/Auto-GPT.git
+    git clone https://github.com/YusufBehramBayindir/Auto-GPT.git
     ```
 
 3. Deponun indirildiği dizine gidin
@@ -54,7 +54,7 @@ _Aşağıdaki komutları çalıştırmak için, bilgisayarınızdaki bir klasör
 
 5. Auto-GPT'yi yapılandırın
     1. Ana "/Auto-GPT" klasöründe ".env.template" adlı dosyayı bulun.
-    2. "şablon" uzantısını kaldırarak bu dosyanın ".env" adlı bir kopyasını oluşturun. En kolay yol, bunu bir komut istemi/terminal penceresinde `cp .env.template .env` yapmaktır.
+    2. ".template" uzantısını kaldırarak bu dosyanın ".env" adlı bir kopyasını oluşturun. En kolay yol, bunu bir komut istemi/terminal penceresinde `cp .env.template .env` yapmaktır.
     3. `.env` dosyasını bir metin düzenleyicide açın. _Not: Nokta ile başlayan dosyalar İşletim Sisteminiz tarafından gizlenmiş olabilir._
     4. "OPENAI_API_KEY=" yazan satırı bulun.
     5. `"="` işaretinden sonra benzersiz OpenAI API Anahtarınızı girin (tırnak işaretleri veya boşluklar olmadan).
