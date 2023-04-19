@@ -13,7 +13,8 @@ Auto-GPT, GPT-4 dil modelinin yeteneklerini sergileyen deneysel bir açık kayna
 
 ## 📋 Gereksinimler
 
-- Python 3.8 veya üstü (adımlar: [Windows için](https://www.tutorialspoint.com/how-to-install-python-in-windows)[Mac için](https://www.dataquest.io/blog/installing-python-on-mac/))
+- Python 3.8 veya üstü (adımlar: [Windows için](https://www.tutorialspoint.com/how-to-install-python-in-windows)
+                                 [Mac için](https://www.dataquest.io/blog/installing-python-on-mac/))
 - [OpenAI API key](https://platform.openai.com/account/api-keys)
 
 ### Opsiyonel
