@@ -53,8 +53,8 @@ _Aşağıdaki komutları çalıştırmak için, bilgisayarınızdaki bir klasör
     ```
 
 5. Auto-GPT'yi yapılandırın
-    1. Ana "/Auto-GPT" klasöründe ".env.template" adlı dosyayı bulun.
-    2. ".template" uzantısını kaldırarak bu dosyanın ".env" adlı bir kopyasını oluşturun. En kolay yol, bunu bir komut istemi/terminal penceresinde `cp .env.template .env` yapmaktır.
+    1. Ana "/Auto-GPT" klasöründe `.env.template` adlı dosyayı bulun.
+    2. `.template` uzantısını kaldırarak bu dosyanın `.env` adlı bir kopyasını oluşturun. En kolay yol, bunu bir komut istemi/terminal penceresinde `cp .env.template .env` yapmaktır.
     3. `.env` dosyasını bir metin düzenleyicide açın. _Not: Nokta ile başlayan dosyalar İşletim Sisteminiz tarafından gizlenmiş olabilir._
     4. "OPENAI_API_KEY=" yazan satırı bulun.
     5. `"="` işaretinden sonra benzersiz OpenAI API Anahtarınızı girin (tırnak işaretleri veya boşluklar olmadan).
