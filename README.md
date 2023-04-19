@@ -1,4 +1,4 @@
-# Auto-GPT: An Autonomous GPT-4 Experiment
+## Auto-GPT: An Autonomous GPT-4 Experiment
 
 
 Auto-GPT, GPT-4 dil modelinin yeteneklerini sergileyen deneysel bir açık kaynaklı uygulamadır. GPT-4 tarafından yönetilen bu program, belirlediğiniz hedefe özel bir şekilde ulaşmak için çalışıyor. Tamamen otonom olarak çalışan GPT-4'ün ilk örneklerinden biri olan Auto-GPT, yapay zeka ile mümkün olanın sınırlarını zorluyor.
